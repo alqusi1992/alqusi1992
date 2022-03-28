@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Developing my self in tech field
+- 🔭 I’m currently working on .... Developing my self in tech field
 - 🌱 I’m currently working at Weborama
 - 👯 I’m looking to collaborate on ... Javascript challanges 
 - 🤔 I’m looking for help with ... web & design stuff 
