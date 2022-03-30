@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... web & design stuff 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... LinkdIn (https://bit.ly/33a2pis)
-- ⚡ Fun fact: ... The wood frog can hold its pee for up to eight months
+- ⚡ Fun fact: ... The wood frog can hold its pee for up to eight months.
 
