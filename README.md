@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alqusi1992)](https://github.com/alqusi1992/github-readme-stats)
+[![Anurag's github status](https://github-readme-stats.vercel.app/api?username=alqusi1992)](https://github.com/alqusi1992/github-readme-status)
 
 
 
