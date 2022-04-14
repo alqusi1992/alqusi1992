@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alqusi1992&color=random)](https://github.com/alqusi1992/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alqusi1992)](https://github.com/alqusi1992/github-readme-stats)
 
 
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alqusi1992)](https://github.com/alqusi1992/github-readme-stats)
 
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
