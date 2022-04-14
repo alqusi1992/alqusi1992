@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&&section=header&text=Hello+There👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&&section=header&text=Hello+There+👋&fontSize=60)
 
 
-### Here is what i'm working on! 👋
+### Here is what i'm working on! 
 
 
 Here are some ideas to get you started:
