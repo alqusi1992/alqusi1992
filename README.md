@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... LinkdIn ((https://bit.ly/33a2pis))
 - ⚡ Fun fact: ... The wood frog can hold its pee for up to eight months.
 
+
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
+
