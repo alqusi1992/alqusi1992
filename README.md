@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&&section=header&text=Hello+There+👋&fontSize=60)
-
 ### Here is what i'm working on! 
 
 Here are some ideas to get you started:
@@ -28,4 +26,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alqusi1992)](https://github.com/alqusi1992/github-readme-stats)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&%20render&fontSize=90)
+
